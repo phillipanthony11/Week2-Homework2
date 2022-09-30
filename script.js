@@ -29,7 +29,7 @@ function generatePassword(){
 
   var generatedPassword;
 
-  if(8<=length<=128 && finalCharacters.length>0){
+  if(length>=8 && length<=128 && finalCharacters.length>0){
     for (var i = 0; i < length; i++) {
       var randomArrayPosition = Math.floor(Math.random()*finalCharacters.length)
       var randomValue = finalCharacters[randomArrayPosition]
