@@ -8,4 +8,7 @@ This weeks homework assignment was to make a random password generator work. I d
 
 ![A password generator with random numbers and symbols in the middle](assets/Password-generator.png)
 
-##
+## Links
+
+deployed application: https://phillipanthony11.github.io/Week2-Homework2/
+github repo: https://github.com/phillipanthony11/Week2-Homework2
